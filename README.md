@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Asher :)
-- I currently live in Nashville, TN.
 - 👀 I’m interested in art, cats, and web development.
 - 🌱 I’m currently learning Python & JavaScript.
