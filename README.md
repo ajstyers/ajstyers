@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Asher :)
-- 👀 I’m interested in art, cats, and web development.
-- 🌱 I’m currently learning Python & JavaScript.
+- 👀 I’m interested in art, cats, and web development
+- 🌱 I’m currently learning C++ & JavaScript/HTML/CSS
+- Studying with Nashville Software School
+- Currently attending Volunteer State University
